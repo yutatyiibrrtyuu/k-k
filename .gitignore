@@ -11,3 +11,5 @@ build/
 .venv/
 venv/
 *.xlsx
+*.dlpkg
+.dlp_config.json
